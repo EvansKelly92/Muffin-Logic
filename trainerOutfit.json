@@ -1,0 +1,313 @@
+{
+    "outfit": "hat",
+    "style" : [
+        {
+            "name" : "No Hat",
+            "gen" : null,
+            "pokemon" : null,
+            "color" : null,
+            "img" : null
+        },
+        {
+            "name" : "Red's Hat",
+            "gen" : 1,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Fire Red's Hat",
+            "gen" : 1,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Leaf's Hat",
+            "gen" : 1,
+            "pokemon" : null,
+            "color" : "white",
+            "img" : null
+        },
+        {
+            "name" : "Ethan's Hat",
+            "gen" : 2,
+            "pokemon" : null,
+            "color" : "yellow",
+            "img" : null
+        },
+        {
+            "name" : "Kris's Hat",
+            "gen" : 2,
+            "pokemon" : null,
+            "color" : "yellow",
+            "img" : null
+        },
+        {
+            "name" : "Lyra's Hat",
+            "gen" : 2,
+            "pokemon" : null,
+            "color" : "white",
+            "img" : null
+        },
+        {
+            "name" : "Brendan's Hat",
+            "gen" : 3,
+            "pokemon" : null,
+            "color" : "black",
+            "img" : null
+        },
+        {
+            "name" : "Brendan's Hat (Emerald)",
+            "gen" : 3,
+            "pokemon" : null,
+            "color" : "green",
+            "img" : null
+        },
+        {
+            "name" : "Brendan's Hat (ORAS)",
+            "gen" : 3,
+            "pokemon" : null,
+            "color" : "black",
+            "img" : null
+        },
+        {
+            "name" : "May's Hat",
+            "gen" : 3,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "May's Hat (Emerald)",
+            "gen" : 3,
+            "pokemon" : null,
+            "color" : "green",
+            "img" : null
+        },
+        {
+            "name" : "May's Hat (ORAS)",
+            "gen" : 3,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Lucas's Hat",
+            "gen" : 4,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Dawn's Hat",
+            "gen" : 4,
+            "pokemon" : null,
+            "color" : "white",
+            "img" : null
+        },
+        {
+            "name" : "Hilbert's Hat",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Nate's Hat",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Hilda's Hat",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "white",
+            "img" : null
+        },
+        {
+            "name" : "Rosa's Hat",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "pink",
+            "img" : null
+        },
+        {
+            "name" : "Stadium Boy's Hat",
+            "gen" : 1,
+            "pokemon" : null,
+            "color" : "white",
+            "img" : null
+        },
+        {
+            "name" : "Stadium Girl's Hat",
+            "gen" : 2,
+            "pokemon" : null,
+            "color" : "white",
+            "img" : null
+        },
+        {
+            "name" : "Michael's Hat",
+            "gen" : 3,
+            "pokemon" : null,
+            "color" : "blue",
+            "img" : null
+        },
+        {
+            "name" : "Nate's Hat (BR)",
+            "gen" : 4,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Cyndy's Hat",
+            "gen" : 4,
+            "pokemon" : null,
+            "color" : "black",
+            "img" : null
+        },
+        {
+            "name" : "Hero's Hat",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "yellow",
+            "img" : null
+        },
+        {
+            "name" : "Heroine's Hat",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "brown",
+            "img" : null
+        },
+        {
+            "name" : "Ga-Ole Boy's Hat",
+            "gen" : 8,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Ga-Ole Girl's Hat",
+            "gen" : 8,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Ranger's Hat",
+            "gen" : 3,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Mark's Hat",
+            "gen" : 1,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Mint's Hat",
+            "gen" : 2,
+            "pokemon" : null,
+            "color" : "blue",
+            "img" : null
+        },
+        {
+            "name" : "Typing Boy's Hat",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "blue",
+            "img" : null
+        },
+        {
+            "name" : "Typing Boy's Hat (alt)",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "green",
+            "img" : null
+        },
+        {
+            "name" : "Typing Girl's Hat",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "pink",
+            "img" : null
+        },
+        {
+            "name" : "Typing Girl's Hat (alt)",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "blue",
+            "img" : null
+        },
+        {
+            "name" : "Jamie's Hat",
+            "gen" : 8,
+            "pokemon" : null,
+            "color" : "black",
+            "img" : null
+        },
+        {
+            "name" : "River's Hat",
+            "gen" : 8,
+            "pokemon" : null,
+            "color" : "white",
+            "img" : null
+        },
+        {
+            "name" : "Lucy's Hat",
+            "gen" : 3,
+            "pokemon" : null,
+            "color" : "pink",
+            "img" : null
+        },
+        {
+            "name" : "Player's Hat",
+            "gen" : 1,
+            "pokemon" : null,
+            "color" : "black",
+            "img" : null
+        },
+        {
+            "name" : "Ethan's Hat (puzzle)",
+            "gen" : 2,
+            "pokemon" : null,
+            "color" : "yellow",
+            "img" : null
+        },
+        {
+            "name" : "Your Hat",
+            "gen" : 7,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Hot Blooded Hat",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Naughty Hat",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "red",
+            "img" : null
+        },
+        {
+            "name" : "Fashionable Hat",
+            "gen" : 5,
+            "pokemon" : null,
+            "color" : "black",
+            "img" : null
+        }
+    ]
+}
