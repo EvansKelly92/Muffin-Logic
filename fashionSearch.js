@@ -6,9 +6,24 @@
 const hatOptions = [];
 
  function hatChoose () {
-    fetch('trainerOutfit.json')
+    fetch('https://raw.githubusercontent.com/EvansKelly92/Muffin-Logic/main/trainerOutfit.json')
     
     .then((response) => response.json())
 
-    .then((json) => console.log(json));
+    .then((data) =>{ 
+       /* for (var x = 0; x < data.style.length; x++){
+            const node = document.createElement("li");
+            const textnode = document.createTextNode(data.style[x].name);
+            node.appendChild(textnode);
+            document.getElementById("show").appendChild(node);
+        } */
+
+        var x = Math.floor(Math.random() * data.style.length);
+
+        const node = document.createElement("li");
+        const textnode = document.createTextNode(data.style[x].name);
+        node.appendChild(textnode);
+        document.getElementById("show").appendChild(node);
+
+        console.log(data.style[0].name)});
  }
